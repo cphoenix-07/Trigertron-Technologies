@@ -10,10 +10,8 @@ const App = () => (
         name="description"
         content="Trigertron Technologies: Your Partner for Comprehensive Business and Technology Solutions. We offer expert services in web development, mobile app development, business solutions, business consultancy, fundraising consultancy, startup consultancy, strategic leadership, product management, digital marketing, and more. Discover how we can empower your business."
       />
-      <meta name="keywords" content="web development, mobile app development, digital marketing, business solutions, business consultancy, startup consultancy, branding, marketing, fundraising, fundraising services, strategic leadership, product management" />
-      <meta name="robots" content="index, follow" />
+      <meta name="keywords" content="trigertron technologies, trigertron, web development, mobile app development, digital marketing, business solutions, business consultancy, startup consultancy, branding, marketing, fundraising, fundraising services, strategic leadership, product management" />
       <link rel="canonical" href="https://www.trigertron.com/" />
-      {/* Add more meta tags as needed */}
     </Helmet>
     <div className="bg-primary w-full overflow-hidden">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
