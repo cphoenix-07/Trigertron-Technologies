@@ -52,9 +52,9 @@ const services = [
         description: "Expert guidance from inception to success. Assist in planning, market entry, and efficient resource allocation for startups."
     },
     {
-        title: "Strategic Leadership",
+        title: "Strategic Planning",
         icon: leadership,
-        description: "Equip leaders with skills to navigate challenges, foster innovation, and empower teams for organizational success."
+        description: "Trigertron strategizes for business success, mapping clear objectives, resource optimization, and innovation pathways. Your trusted partner for strategic planning and sustainable growth."
     },
     {
         title: "Product Management",

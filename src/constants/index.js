@@ -10,7 +10,7 @@ export const navLinks = [
     title: "Overview",
   },
   {
-    id: "Services",
+    id: "services",
     title: "Services",
   },
 ];
@@ -44,7 +44,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "I thought it was impossible to make a multi-vendor platform to connect both businesses and consumer for my startup as our product, but Trigertron proved me wrong.",
-    name: "Mohd Abuzar",
+    name: "Ayush Priyam",
     title: "Founder & CEO",
     img: user,
   },

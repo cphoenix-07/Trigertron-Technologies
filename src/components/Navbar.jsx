@@ -10,8 +10,9 @@ const Navbar = () => {
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <div className="flex items-center"> {/* Use a flex container */}
-        <img src={logo} alt="hoobank" className="w-[50px] h-[50px]" />
-        <h1 className="text-white ml-2 font-bold text-[20px]">Trigertron Technologies</h1> {/* Add ml-2 for margin-left */}
+        <img src={logo} alt="hoobank" className="w-[65px] h-[65px]" />
+        <h1 className="text-[#F78621] ml-2 font-bold text-[20px]">Trigertron</h1> {/* Add ml-2 for margin-left */}
+        <h1 className="text-[#68C5CF] ml-2 font-bold text-[20px]">Technologies</h1> {/* Add ml-2 for margin-left */}
       </div>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">

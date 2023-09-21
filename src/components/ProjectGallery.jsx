@@ -1,5 +1,5 @@
 import React from 'react';
-import { mobileDev, webDev } from '../assets';
+import { poochiee, sankatha } from '../assets';
 import styles from '../style';
 import { layout } from '../style';
 
@@ -7,13 +7,13 @@ const projects = [
     {
         title: 'Pet Care Platform - Poochiee',
         description: 'Poochiee is a comprehensive platform for pet enthusiasts, offering resources, expert advice, grooming tips, adoption support, and a thriving community. We enhance the lives of pets and their owners.',
-        imageUrl: webDev, // Replace with your image URL
+        imageUrl: poochiee, // Replace with your image URL
         source_code_link: 'https://poochiee.in/',
     },
     {
         title: 'Social Platform - Sankatha',
         description: 'Sankatha is a dynamic social media platform akin to Twitter but dedicated to giving voice to the underrepresented. It thrives on discussions encompassing spirituality, science, culture, and technology.',
-        imageUrl: mobileDev, // Replace with your image URL
+        imageUrl: sankatha, // Replace with your image URL
         source_code_link: 'https://sankatha-web.vercel.app/',
     },
 ];

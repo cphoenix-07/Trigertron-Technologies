@@ -35,10 +35,16 @@ import leadership from './leadership.jpg'
 import product from './product.jpg'
 import businessDeal from './business-deal.png'
 
+
+import sankatha from './sankatha.png'
+import poochiee from './poochiee.png'
+
 import logo from './logo.png'
 
 export {
   airbnb,
+  sankatha,
+  poochiee,
   user,
   mobileDev,
   businessDeal,

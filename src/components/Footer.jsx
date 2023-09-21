@@ -8,7 +8,8 @@ const Footer = () => (
       <div className="flex-[1] flex flex-col justify-start mr-10">
         <div className="flex items-center"> {/* Use a flex container */}
           <img src={logo} alt="hoobank" className="w-[50px] h-[50px]" />
-          <h1 className="text-white ml-2 font-bold text-[20px]">Trigertron Technologies</h1> {/* Add ml-2 for margin-left */}
+          <h1 className="text-[#F78621] ml-2 font-bold text-[20px]">Trigertron</h1> {/* Add ml-2 for margin-left */}
+        <h1 className="text-[#68C5CF] ml-2 font-bold text-[20px]">Technologies</h1> {/* Add ml-2 for margin-left */}
         </div>
 
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>

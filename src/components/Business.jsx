@@ -29,7 +29,7 @@ const Business = () => (
       At Trigertron Technologies, we recognize entrepreneurs as the driving force behind innovation. We're here to offer holistic support, seamlessly integrating technology, business consultancy, and strategic guidance. Simplifying complexities and amplifying your vision, we empower your entrepreneurial journey. Join us for comprehensive, holistic solutions that fuel your progress.
       </p>
 
-      <Button styles={`mt-10`} />
+      {/* <Button styles={`mt-10`} /> */}
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
