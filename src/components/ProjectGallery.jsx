@@ -18,8 +18,8 @@ const projects = [
     },
     {
         title: 'Home Decor Web Design',
-        description: 'Website Design for a home living decor brand.',
-        imageUrl: sankatha, // Replace with your image URL
+        description: `Explore our home decor website design for a curated selection of stylish and functional products. Transform your living spaces with ease, discovering inspiration and quality items that elevate your home's aesthetic.`,
+        imageUrl: masionrevere, // Replace with your image URL
         source_code_link: 'https://maison-revere.vercel.app/',
     },
 ];
