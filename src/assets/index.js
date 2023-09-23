@@ -38,11 +38,13 @@ import businessDeal from './business-deal.png'
 
 import sankatha from './sankatha.png'
 import poochiee from './poochiee.png'
+import masionrevere from './interior-design.png'
 
 import logo from './logo.png'
 
 export {
   airbnb,
+  masionrevere,
   sankatha,
   poochiee,
   user,

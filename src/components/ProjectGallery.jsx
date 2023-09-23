@@ -1,5 +1,5 @@
 import React from 'react';
-import { poochiee, sankatha } from '../assets';
+import { poochiee, sankatha, masionrevere } from '../assets';
 import styles from '../style';
 import { layout } from '../style';
 
@@ -15,6 +15,12 @@ const projects = [
         description: 'Sankatha is a dynamic social media platform akin to Twitter but dedicated to giving voice to the underrepresented. It thrives on discussions encompassing spirituality, science, culture, and technology.',
         imageUrl: sankatha, // Replace with your image URL
         source_code_link: 'https://sankatha-web.vercel.app/',
+    },
+    {
+        title: 'Home Decor Web Design',
+        description: 'Website Design for a home living decor brand.',
+        imageUrl: sankatha, // Replace with your image URL
+        source_code_link: 'https://maison-revere.vercel.app/',
     },
 ];
 
