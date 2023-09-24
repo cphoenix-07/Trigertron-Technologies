@@ -39,12 +39,14 @@ import businessDeal from './business-deal.png'
 import sankatha from './sankatha.png'
 import poochiee from './poochiee.png'
 import masionrevere from './interior-design.png'
+import neoreality from './neoreality.png'
 
 import logo from './logo.png'
 
 export {
   airbnb,
   masionrevere,
+  neoreality,
   sankatha,
   poochiee,
   user,

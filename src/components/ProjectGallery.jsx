@@ -1,5 +1,5 @@
 import React from 'react';
-import { poochiee, sankatha, masionrevere } from '../assets';
+import { poochiee, sankatha, masionrevere, neoreality } from '../assets';
 import styles from '../style';
 import { layout } from '../style';
 
@@ -21,6 +21,12 @@ const projects = [
         description: `Explore our home decor website design for a curated selection of stylish and functional products. Transform your living spaces with ease, discovering inspiration and quality items that elevate your home's aesthetic.`,
         imageUrl: masionrevere, // Replace with your image URL
         source_code_link: 'https://maison-revere.vercel.app/',
+    },
+    {
+        title: 'NeoReality',
+        description: `Where imagination meets reality. Explore an immersive metaverse platform, seamlessly blending digital and physical worlds. Experience boundless creativity, social connections, and limitless possibilities in a new era of reality.`,
+        imageUrl: neoreality, // Replace with your image URL
+        source_code_link: 'https://neo-reality.vercel.app/',
     },
 ];
 
