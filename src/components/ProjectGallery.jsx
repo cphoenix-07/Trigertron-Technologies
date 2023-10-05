@@ -1,5 +1,5 @@
 import React from 'react';
-import { poochiee, sankatha, masionrevere, neoreality } from '../assets';
+import { poochiee, sankatha, masionrevere, neoreality, vrindaStore } from '../assets';
 import styles from '../style';
 import { layout } from '../style';
 
@@ -27,6 +27,12 @@ const projects = [
         description: `Where imagination meets reality. Explore an immersive metaverse platform, seamlessly blending digital and physical worlds. Experience boundless creativity, social connections, and limitless possibilities in a new era of reality.`,
         imageUrl: neoreality, // Replace with your image URL
         source_code_link: 'https://neo-reality.vercel.app/',
+    },
+    {
+        title: 'Vrinda Store Annual',
+        description: `Welcome to the Vrinda Store Annual Report Data Analysis GitHub repository! Here, you'll find comprehensive Excel spreadsheets and analytical tools to dissect and gain valuable insights from Vrinda Store's annual financial reports.`,
+        imageUrl: vrindaStore, // Replace with your image URL
+        source_code_link: 'https://github.com/cphoenix-07/Vrinda-Store-Annual-Report/',
     },
 ];
 

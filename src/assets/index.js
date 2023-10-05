@@ -40,11 +40,13 @@ import sankatha from './sankatha.png'
 import poochiee from './poochiee.png'
 import masionrevere from './interior-design.png'
 import neoreality from './neoreality.png'
+import vrindaStore from './vrinda-store.png';
 
 import logo from './logo.png'
 
 export {
   airbnb,
+  vrindaStore,
   masionrevere,
   neoreality,
   sankatha,
