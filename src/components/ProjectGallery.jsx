@@ -1,5 +1,5 @@
 import React from 'react';
-import { poochiee, sankatha, masionrevere, neoreality, vrindaStore } from '../assets';
+import { poochiee, sankatha, masionrevere, neoreality, vrindaStore, hranalytics } from '../assets';
 import styles from '../style';
 import { layout } from '../style';
 
@@ -33,6 +33,12 @@ const projects = [
         description: `Welcome to the Vrinda Store Annual Report Data Analysis GitHub repository! Here, you'll find comprehensive Excel spreadsheets and analytical tools to dissect and gain valuable insights from Vrinda Store's annual financial reports.`,
         imageUrl: vrindaStore, // Replace with your image URL
         source_code_link: 'https://github.com/cphoenix-07/Vrinda-Store-Annual-Report/',
+    },
+    {
+        title: 'HR Attrition Analytics',
+        description: `Uncovering Attrition Trends: Role, Dept, Age, Education. Valuable insights for HR & management to address employee turnover effectively.`,
+        imageUrl: hranalytics, // Replace with your image URL
+        source_code_link: 'https://github.com/cphoenix-07/HR-Attrition-Analysis',
     },
 ];
 

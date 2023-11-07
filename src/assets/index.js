@@ -41,12 +41,14 @@ import poochiee from './poochiee.png'
 import masionrevere from './interior-design.png'
 import neoreality from './neoreality.png'
 import vrindaStore from './vrinda-store.png';
+import hranalytics from './hr-analystics.png'
 
 import logo from './logo.png'
 
 export {
   airbnb,
   vrindaStore,
+  hranalytics,
   masionrevere,
   neoreality,
   sankatha,
