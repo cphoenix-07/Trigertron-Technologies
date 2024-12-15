@@ -9,10 +9,7 @@ const CTA = () => (
         Everything you need for your entrepreneurial journey and grow your business anywhere on the planet.
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Email Us At: vaik.co.7@gmail.com
-      </p>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Mob No. : +91 92679-04982
+        Email Us At: contact@trigertron.com
       </p>
     </div>
 
